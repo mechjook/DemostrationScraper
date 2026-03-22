@@ -1,0 +1,393 @@
+{
+  "fecha_extraccion": "2026-03-21",
+  "total_indicadores": 43,
+  "indicadores": [
+    {
+      "seccion": "General",
+      "indicador": "Para cotizaciones a pagar en abril 2026 (remuneraciones marzo 2026)",
+      "valor_raw": "Descargar",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "General",
+      "indicador": "Al 31 de Marzo del 2026:",
+      "valor_raw": "$ 39.841,72",
+      "valor": 39841.72,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "General",
+      "indicador": "Al 28 de Febrero del 2026:",
+      "valor_raw": "$ 39.790,63",
+      "valor": 39790.63,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 39.790,63",
+      "indicador": "Para afiliados a una AFP (90 UF):",
+      "valor_raw": "$ 3.585.755",
+      "valor": 3585755.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 39.790,63",
+      "indicador": "Para afiliados al IPS (ex INP) (60 UF):",
+      "valor_raw": "$ 2.387.438",
+      "valor": 2387438.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 39.790,63",
+      "indicador": "Para Seguro de Cesantía (135,2 UF):",
+      "valor_raw": "$ 5.386.601",
+      "valor": 5386601.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "AFP",
+      "valor_raw": "TASA COTIZACIÓN AFP",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "DEPENDIENTES",
+      "valor_raw": "INDEPENDIENTES",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Cargo del Trabajador",
+      "valor_raw": "Cargo del Empleador",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Capital",
+      "valor_raw": "11,44%",
+      "valor": 11.44,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Cuprum",
+      "valor_raw": "11,44%",
+      "valor": 11.44,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Habitat",
+      "valor_raw": "11,27%",
+      "valor": 11.27,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "PlanVital",
+      "valor_raw": "11,16%",
+      "valor": 11.16,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "ProVida",
+      "valor_raw": "11,45%",
+      "valor": 11.45,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Modelo",
+      "valor_raw": "10,58%",
+      "valor": 10.58,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 5.386.601",
+      "indicador": "Uno",
+      "valor_raw": "10,46%",
+      "valor": 10.46,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "CONTRATO",
+      "valor_raw": "FINANCIAMIENTO",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "EMPLEADOR",
+      "valor_raw": "TRABAJADOR",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "Plazo Indefinido",
+      "valor_raw": "2,4% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "Plazo Fijo",
+      "valor_raw": "3,0% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "Plazo Indefinido 11 años o más (*)",
+      "valor_raw": "0,8% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "12,00%",
+      "indicador": "Trabajador de Casa Particular (**)",
+      "valor_raw": "3,0% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "(**)",
+      "indicador": "Tope Mensual (50 UF):",
+      "valor_raw": "$ 1.992.086",
+      "valor": 1992086.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "(**)",
+      "indicador": "Tope Anual (600 UF):",
+      "valor_raw": "$ 23.905.032",
+      "valor": 23905032.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 23.905.032",
+      "indicador": "Tope Anual (900 UF):",
+      "valor_raw": "$ 35.857.548",
+      "valor": 35857548.0,
+      "tipo": "monto",
+      "unidad": "UF",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 35.857.548",
+      "indicador": "Marzo 2026",
+      "valor_raw": "$ 69.889",
+      "valor": 69889.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 838.668",
+      "indicador": "Trab. Dependientes e Independientes:",
+      "valor_raw": "$ 539.000",
+      "valor": 539000.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 838.668",
+      "indicador": "Menores de 18 y Mayores de 65:",
+      "valor_raw": "$ 402.082",
+      "valor": 402082.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 838.668",
+      "indicador": "Trabajadores de Casa Particular:",
+      "valor_raw": "$ 539.000",
+      "valor": 539000.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 838.668",
+      "indicador": "Para fines no remuneracionales:",
+      "valor_raw": "$ 347.434",
+      "valor": 347434.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "$ 347.434",
+      "indicador": "Expectativa de Vida",
+      "valor_raw": "0.9%",
+      "valor": 9.0,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "0.9%",
+      "indicador": "Tasa SIS",
+      "valor_raw": "1,54%",
+      "valor": 1.54,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
+      "indicador": "CCAF",
+      "valor_raw": "4,2% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
+      "indicador": "FONASA",
+      "valor_raw": "2,8% R.I.",
+      "valor": null,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "4,2% R.I.",
+      "indicador": "CALIFICACIÓN",
+      "valor_raw": "FINANCIAMIENTO",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "4,2% R.I.",
+      "indicador": "PUESTO DE TRABAJO",
+      "valor_raw": "EMPLEADOR",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "4,2% R.I.",
+      "indicador": "Trabajo pesado",
+      "valor_raw": "4%",
+      "valor": 4.0,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "4,2% R.I.",
+      "indicador": "Trabajo menos pesado",
+      "valor_raw": "2%",
+      "valor": 2.0,
+      "tipo": "porcentaje",
+      "unidad": "%",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "1% R.I.",
+      "indicador": "TRAMO",
+      "valor_raw": "ASIGNACIÓN FAMILIAR",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "1% R.I.",
+      "indicador": "1 (A)",
+      "valor_raw": "$ 22.007",
+      "valor": 22007.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "1% R.I.",
+      "indicador": "2 (B)",
+      "valor_raw": "$ 13.505",
+      "valor": 13505.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "1% R.I.",
+      "indicador": "3 (C)",
+      "valor_raw": "$ 4.267",
+      "valor": 4267.0,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    },
+    {
+      "seccion": "1% R.I.",
+      "indicador": "4 (D)",
+      "valor_raw": "–",
+      "valor": null,
+      "tipo": "otro",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-03-21"
+    }
+  ]
+}

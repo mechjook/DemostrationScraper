@@ -1,0 +1,800 @@
+fecha_extraccion,seccion,indicador,valor_raw,valor,tipo,unidad
+2025-09-20,Valores y Montos Actualizados,UF,"$37.794,55",37794.55,monto,UF
+2025-09-20,Valores y Montos Actualizados,UTM,"$64.943,81",64943.81,monto,UTM
+2025-09-20,Valores y Montos Actualizados,UTA,"$779.565,87",779565.87,monto,UTA
+2025-09-20,Valores y Montos Actualizados,Dólar Observado,"$925,17",925.17,monto,USD
+2025-09-20,Valores y Montos Actualizados,Euro,"$999,11",999.11,monto,EUR
+2025-09-20,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-09-20,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-09-20,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-09-20,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-09-20,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-09-20,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-09-20,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-09-20,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-09-20,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-09-20,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-09-20,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-09-20,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-09-20,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-09-20,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-09-20,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-09-20,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-09-20,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-09-20,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-09-27,Valores y Montos Actualizados,UF,"$37.754,74",37754.74,monto,UF
+2025-09-27,Valores y Montos Actualizados,UTM,$65.238,65238.0,monto,UTM
+2025-09-27,Valores y Montos Actualizados,UTA,"$780.517,38",780517.38,monto,UTA
+2025-09-27,Valores y Montos Actualizados,Dólar Observado,"$919,32",919.32,monto,USD
+2025-09-27,Valores y Montos Actualizados,Euro,"$1.001,61",1001.61,monto,EUR
+2025-09-27,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-09-27,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-09-27,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-09-27,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-09-27,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-09-27,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-09-27,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-09-27,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-09-27,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-09-27,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-09-27,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-09-27,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-09-27,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-09-27,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-09-27,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-09-27,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-09-27,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-09-27,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-10-04,Valores y Montos Actualizados,UF,"$37.831,46",37831.46,monto,UF
+2025-10-04,Valores y Montos Actualizados,UTM,"$65.638,16",65638.16,monto,UTM
+2025-10-04,Valores y Montos Actualizados,UTA,"$785.680,88",785680.88,monto,UTA
+2025-10-04,Valores y Montos Actualizados,Dólar Observado,"$922,65",922.65,monto,USD
+2025-10-04,Valores y Montos Actualizados,Euro,"$996,43",996.43,monto,EUR
+2025-10-04,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-10-04,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-10-04,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-10-04,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-10-04,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-10-04,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-10-04,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-10-04,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-10-04,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-10-04,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-10-04,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-10-04,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-10-04,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-10-04,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-10-04,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-10-04,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-10-04,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-10-04,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-10-11,Valores y Montos Actualizados,UF,"$37.795,67",37795.67,monto,UF
+2025-10-11,Valores y Montos Actualizados,UTM,"$65.470,06",65470.06,monto,UTM
+2025-10-11,Valores y Montos Actualizados,UTA,"$789.793,22",789793.22,monto,UTA
+2025-10-11,Valores y Montos Actualizados,Dólar Observado,"$923,07",923.07,monto,USD
+2025-10-11,Valores y Montos Actualizados,Euro,"$1.001,66",1001.66,monto,EUR
+2025-10-11,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-10-11,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-10-11,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-10-11,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-10-11,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-10-11,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-10-11,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-10-11,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-10-11,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-10-11,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-10-11,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-10-11,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-10-11,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-10-11,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-10-11,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-10-11,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-10-11,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-10-11,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-10-18,Valores y Montos Actualizados,UF,"$37.865,46",37865.46,monto,UF
+2025-10-18,Valores y Montos Actualizados,UTM,"$65.047,60",65047.6,monto,UTM
+2025-10-18,Valores y Montos Actualizados,UTA,"$785.022,12",785022.12,monto,UTA
+2025-10-18,Valores y Montos Actualizados,Dólar Observado,"$927,29",927.29,monto,USD
+2025-10-18,Valores y Montos Actualizados,Euro,"$1.009,31",1009.31,monto,EUR
+2025-10-18,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-10-18,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-10-18,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-10-18,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-10-18,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-10-18,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-10-18,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-10-18,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-10-18,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-10-18,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-10-18,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-10-18,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-10-18,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-10-18,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-10-18,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-10-18,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-10-18,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-10-18,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-10-25,Valores y Montos Actualizados,UF,"$37.847,60",37847.6,monto,UF
+2025-10-25,Valores y Montos Actualizados,UTM,"$65.772,39",65772.39,monto,UTM
+2025-10-25,Valores y Montos Actualizados,UTA,"$788.768,03",788768.03,monto,UTA
+2025-10-25,Valores y Montos Actualizados,Dólar Observado,"$930,36",930.36,monto,USD
+2025-10-25,Valores y Montos Actualizados,Euro,"$996,21",996.21,monto,EUR
+2025-10-25,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-10-25,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-10-25,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-10-25,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-10-25,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-10-25,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-10-25,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-10-25,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-10-25,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-10-25,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-10-25,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-10-25,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-10-25,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-10-25,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-10-25,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-10-25,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-10-25,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-10-25,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-11-01,Valores y Montos Actualizados,UF,"$37.889,52",37889.52,monto,UF
+2025-11-01,Valores y Montos Actualizados,UTM,"$65.287,78",65287.78,monto,UTM
+2025-11-01,Valores y Montos Actualizados,UTA,"$779.142,21",779142.21,monto,UTA
+2025-11-01,Valores y Montos Actualizados,Dólar Observado,"$921,05",921.05,monto,USD
+2025-11-01,Valores y Montos Actualizados,Euro,"$998,39",998.39,monto,EUR
+2025-11-01,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-11-01,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-11-01,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-11-01,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-11-01,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-11-01,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-11-01,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-11-01,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-11-01,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-11-01,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-11-01,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-11-01,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-11-01,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-11-01,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-11-01,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-11-01,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-11-01,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-11-01,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-11-08,Valores y Montos Actualizados,UF,"$37.912,49",37912.49,monto,UF
+2025-11-08,Valores y Montos Actualizados,UTM,"$66.125,89",66125.89,monto,UTM
+2025-11-08,Valores y Montos Actualizados,UTA,"$786.165,61",786165.61,monto,UTA
+2025-11-08,Valores y Montos Actualizados,Dólar Observado,"$932,68",932.68,monto,USD
+2025-11-08,Valores y Montos Actualizados,Euro,"$998,58",998.58,monto,EUR
+2025-11-08,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-11-08,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-11-08,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-11-08,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-11-08,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-11-08,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-11-08,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-11-08,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-11-08,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-11-08,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-11-08,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-11-08,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-11-08,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-11-08,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-11-08,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-11-08,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-11-08,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-11-08,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-11-15,Valores y Montos Actualizados,UF,"$37.887,46",37887.46,monto,UF
+2025-11-15,Valores y Montos Actualizados,UTM,"$65.944,48",65944.48,monto,UTM
+2025-11-15,Valores y Montos Actualizados,UTA,"$792.926,24",792926.24,monto,UTA
+2025-11-15,Valores y Montos Actualizados,Dólar Observado,"$933,39",933.39,monto,USD
+2025-11-15,Valores y Montos Actualizados,Euro,"$1.010,87",1010.87,monto,EUR
+2025-11-15,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-11-15,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-11-15,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-11-15,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-11-15,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-11-15,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-11-15,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-11-15,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-11-15,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-11-15,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-11-15,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-11-15,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-11-15,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-11-15,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-11-15,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-11-15,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-11-15,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-11-15,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-11-22,Valores y Montos Actualizados,UF,"$37.915,29",37915.29,monto,UF
+2025-11-22,Valores y Montos Actualizados,UTM,"$66.381,23",66381.23,monto,UTM
+2025-11-22,Valores y Montos Actualizados,UTA,"$795.906,12",795906.12,monto,UTA
+2025-11-22,Valores y Montos Actualizados,Dólar Observado,"$923,67",923.67,monto,USD
+2025-11-22,Valores y Montos Actualizados,Euro,"$1.002,18",1002.18,monto,EUR
+2025-11-22,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-11-22,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-11-22,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-11-22,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-11-22,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-11-22,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-11-22,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-11-22,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-11-22,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-11-22,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-11-22,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-11-22,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-11-22,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-11-22,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-11-22,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-11-22,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-11-22,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-11-22,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-11-29,Valores y Montos Actualizados,UF,"$37.895,64",37895.64,monto,UF
+2025-11-29,Valores y Montos Actualizados,UTM,"$66.462,28",66462.28,monto,UTM
+2025-11-29,Valores y Montos Actualizados,UTA,"$794.624,55",794624.55,monto,UTA
+2025-11-29,Valores y Montos Actualizados,Dólar Observado,"$946,39",946.39,monto,USD
+2025-11-29,Valores y Montos Actualizados,Euro,"$1.002,26",1002.26,monto,EUR
+2025-11-29,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-11-29,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-11-29,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-11-29,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-11-29,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-11-29,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-11-29,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-11-29,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-11-29,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-11-29,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-11-29,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-11-29,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-11-29,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-11-29,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-11-29,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-11-29,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-11-29,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-11-29,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-12-06,Valores y Montos Actualizados,UF,"$37.883,20",37883.2,monto,UF
+2025-12-06,Valores y Montos Actualizados,UTM,"$66.679,75",66679.75,monto,UTM
+2025-12-06,Valores y Montos Actualizados,UTA,"$802.705,21",802705.21,monto,UTA
+2025-12-06,Valores y Montos Actualizados,Dólar Observado,"$933,84",933.84,monto,USD
+2025-12-06,Valores y Montos Actualizados,Euro,"$1.014,65",1014.65,monto,EUR
+2025-12-06,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-12-06,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-12-06,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-12-06,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-12-06,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-12-06,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-12-06,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-12-06,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-12-06,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-12-06,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-12-06,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-12-06,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-12-06,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-12-06,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-12-06,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-12-06,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-12-06,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-12-06,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-12-13,Valores y Montos Actualizados,UF,$37.990,37990.0,monto,UF
+2025-12-13,Valores y Montos Actualizados,UTM,"$66.529,44",66529.44,monto,UTM
+2025-12-13,Valores y Montos Actualizados,UTA,"$793.170,46",793170.46,monto,UTA
+2025-12-13,Valores y Montos Actualizados,Dólar Observado,"$927,12",927.12,monto,USD
+2025-12-13,Valores y Montos Actualizados,Euro,"$1.016,27",1016.27,monto,EUR
+2025-12-13,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-12-13,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-12-13,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-12-13,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-12-13,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-12-13,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-12-13,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-12-13,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-12-13,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-12-13,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-12-13,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-12-13,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-12-13,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-12-13,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-12-13,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-12-13,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-12-13,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-12-13,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-12-20,Valores y Montos Actualizados,UF,"$37.892,85",37892.85,monto,UF
+2025-12-20,Valores y Montos Actualizados,UTM,"$66.700,90",66700.9,monto,UTM
+2025-12-20,Valores y Montos Actualizados,UTA,"$801.267,63",801267.63,monto,UTA
+2025-12-20,Valores y Montos Actualizados,Dólar Observado,"$929,64",929.64,monto,USD
+2025-12-20,Valores y Montos Actualizados,Euro,"$1.015,47",1015.47,monto,EUR
+2025-12-20,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-12-20,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-12-20,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-12-20,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-12-20,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-12-20,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-12-20,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-12-20,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-12-20,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-12-20,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-12-20,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-12-20,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-12-20,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-12-20,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-12-20,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-12-20,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-12-20,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-12-20,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2025-12-27,Valores y Montos Actualizados,UF,"$37.980,71",37980.71,monto,UF
+2025-12-27,Valores y Montos Actualizados,UTM,"$67.574,46",67574.46,monto,UTM
+2025-12-27,Valores y Montos Actualizados,UTA,"$804.257,87",804257.87,monto,UTA
+2025-12-27,Valores y Montos Actualizados,Dólar Observado,"$928,39",928.39,monto,USD
+2025-12-27,Valores y Montos Actualizados,Euro,"$1.007,27",1007.27,monto,EUR
+2025-12-27,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2025-12-27,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2025-12-27,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2025-12-27,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2025-12-27,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2025-12-27,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2025-12-27,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2025-12-27,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2025-12-27,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2025-12-27,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2025-12-27,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2025-12-27,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2025-12-27,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2025-12-27,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2025-12-27,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2025-12-27,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2025-12-27,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2025-12-27,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-01-03,Valores y Montos Actualizados,UF,"$37.938,67",37938.67,monto,UF
+2026-01-03,Valores y Montos Actualizados,UTM,"$67.259,49",67259.49,monto,UTM
+2026-01-03,Valores y Montos Actualizados,UTA,"$801.189,35",801189.35,monto,UTA
+2026-01-03,Valores y Montos Actualizados,Dólar Observado,"$933,28",933.28,monto,USD
+2026-01-03,Valores y Montos Actualizados,Euro,"$1.017,25",1017.25,monto,EUR
+2026-01-03,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-01-03,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-01-03,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-01-03,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-01-03,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-01-03,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-01-03,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-01-03,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-01-03,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-01-03,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-01-03,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-01-03,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-01-03,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-01-03,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-01-03,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-01-03,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-01-03,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-01-03,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-01-10,Valores y Montos Actualizados,UF,"$37.954,09",37954.09,monto,UF
+2026-01-10,Valores y Montos Actualizados,UTM,"$66.984,56",66984.56,monto,UTM
+2026-01-10,Valores y Montos Actualizados,UTA,"$797.778,98",797778.98,monto,UTA
+2026-01-10,Valores y Montos Actualizados,Dólar Observado,"$926,75",926.75,monto,USD
+2026-01-10,Valores y Montos Actualizados,Euro,"$1.008,83",1008.83,monto,EUR
+2026-01-10,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-01-10,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-01-10,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-01-10,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-01-10,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-01-10,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-01-10,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-01-10,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-01-10,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-01-10,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-01-10,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-01-10,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-01-10,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-01-10,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-01-10,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-01-10,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-01-10,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-01-10,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-01-17,Valores y Montos Actualizados,UF,"$38.008,50",38008.5,monto,UF
+2026-01-17,Valores y Montos Actualizados,UTM,"$67.597,89",67597.89,monto,UTM
+2026-01-17,Valores y Montos Actualizados,UTA,"$806.447,98",806447.98,monto,UTA
+2026-01-17,Valores y Montos Actualizados,Dólar Observado,"$937,56",937.56,monto,USD
+2026-01-17,Valores y Montos Actualizados,Euro,"$1.014,78",1014.78,monto,EUR
+2026-01-17,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-01-17,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-01-17,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-01-17,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-01-17,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-01-17,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-01-17,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-01-17,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-01-17,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-01-17,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-01-17,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-01-17,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-01-17,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-01-17,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-01-17,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-01-17,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-01-17,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-01-17,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-01-24,Valores y Montos Actualizados,UF,"$38.045,12",38045.12,monto,UF
+2026-01-24,Valores y Montos Actualizados,UTM,"$67.630,34",67630.34,monto,UTM
+2026-01-24,Valores y Montos Actualizados,UTA,"$809.147,40",809147.4,monto,UTA
+2026-01-24,Valores y Montos Actualizados,Dólar Observado,"$929,12",929.12,monto,USD
+2026-01-24,Valores y Montos Actualizados,Euro,"$1.020,72",1020.72,monto,EUR
+2026-01-24,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-01-24,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-01-24,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-01-24,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-01-24,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-01-24,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-01-24,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-01-24,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-01-24,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-01-24,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-01-24,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-01-24,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-01-24,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-01-24,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-01-24,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-01-24,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-01-24,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-01-24,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-01-31,Valores y Montos Actualizados,UF,"$38.029,86",38029.86,monto,UF
+2026-01-31,Valores y Montos Actualizados,UTM,"$67.868,76",67868.76,monto,UTM
+2026-01-31,Valores y Montos Actualizados,UTA,"$809.523,36",809523.36,monto,UTA
+2026-01-31,Valores y Montos Actualizados,Dólar Observado,"$951,85",951.85,monto,USD
+2026-01-31,Valores y Montos Actualizados,Euro,"$1.012,69",1012.69,monto,EUR
+2026-01-31,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-01-31,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-01-31,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-01-31,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-01-31,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-01-31,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-01-31,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-01-31,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-01-31,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-01-31,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-01-31,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-01-31,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-01-31,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-01-31,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-01-31,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-01-31,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-01-31,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-01-31,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-02-07,Valores y Montos Actualizados,UF,"$38.087,02",38087.02,monto,UF
+2026-02-07,Valores y Montos Actualizados,UTM,"$67.637,41",67637.41,monto,UTM
+2026-02-07,Valores y Montos Actualizados,UTA,"$809.186,55",809186.55,monto,UTA
+2026-02-07,Valores y Montos Actualizados,Dólar Observado,"$930,09",930.09,monto,USD
+2026-02-07,Valores y Montos Actualizados,Euro,"$1.014,94",1014.94,monto,EUR
+2026-02-07,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-02-07,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-02-07,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-02-07,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-02-07,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-02-07,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-02-07,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-02-07,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-02-07,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-02-07,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-02-07,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-02-07,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-02-07,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-02-07,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-02-07,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-02-07,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-02-07,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-02-07,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-02-14,Valores y Montos Actualizados,UF,"$38.091,94",38091.94,monto,UF
+2026-02-14,Valores y Montos Actualizados,UTM,"$67.995,32",67995.32,monto,UTM
+2026-02-14,Valores y Montos Actualizados,UTA,"$815.446,65",815446.65,monto,UTA
+2026-02-14,Valores y Montos Actualizados,Dólar Observado,"$921,83",921.83,monto,USD
+2026-02-14,Valores y Montos Actualizados,Euro,"$1.021,78",1021.78,monto,EUR
+2026-02-14,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-02-14,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-02-14,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-02-14,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-02-14,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-02-14,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-02-14,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-02-14,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-02-14,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-02-14,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-02-14,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-02-14,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-02-14,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-02-14,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-02-14,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-02-14,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-02-14,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-02-14,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-02-21,Valores y Montos Actualizados,UF,"$38.070,49",38070.49,monto,UF
+2026-02-21,Valores y Montos Actualizados,UTM,"$67.681,27",67681.27,monto,UTM
+2026-02-21,Valores y Montos Actualizados,UTA,"$811.873,20",811873.2,monto,UTA
+2026-02-21,Valores y Montos Actualizados,Dólar Observado,"$940,22",940.22,monto,USD
+2026-02-21,Valores y Montos Actualizados,Euro,"$1.029,67",1029.67,monto,EUR
+2026-02-21,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-02-21,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-02-21,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-02-21,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-02-21,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-02-21,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-02-21,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-02-21,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-02-21,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-02-21,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-02-21,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-02-21,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-02-21,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-02-21,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-02-21,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-02-21,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-02-21,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-02-21,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-02-28,Valores y Montos Actualizados,UF,"$38.020,94",38020.94,monto,UF
+2026-02-28,Valores y Montos Actualizados,UTM,"$67.850,96",67850.96,monto,UTM
+2026-02-28,Valores y Montos Actualizados,UTA,"$821.190,96",821190.96,monto,UTA
+2026-02-28,Valores y Montos Actualizados,Dólar Observado,"$937,88",937.88,monto,USD
+2026-02-28,Valores y Montos Actualizados,Euro,"$1.015,85",1015.85,monto,EUR
+2026-02-28,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-02-28,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-02-28,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-02-28,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-02-28,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-02-28,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-02-28,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-02-28,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-02-28,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-02-28,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-02-28,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-02-28,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-02-28,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-02-28,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-02-28,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-02-28,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-02-28,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-02-28,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-03-07,Valores y Montos Actualizados,UF,"$38.075,86",38075.86,monto,UF
+2026-03-07,Valores y Montos Actualizados,UTM,"$67.716,58",67716.58,monto,UTM
+2026-03-07,Valores y Montos Actualizados,UTA,"$818.297,79",818297.79,monto,UTA
+2026-03-07,Valores y Montos Actualizados,Dólar Observado,"$933,18",933.18,monto,USD
+2026-03-07,Valores y Montos Actualizados,Euro,"$1.025,40",1025.4,monto,EUR
+2026-03-07,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-03-07,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-03-07,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-03-07,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-03-07,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-03-07,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-03-07,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-03-07,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-03-07,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-03-07,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-03-07,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-03-07,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-03-07,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-03-07,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-03-07,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-03-07,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-03-07,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-03-07,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-03-14,Valores y Montos Actualizados,UF,"$38.083,62",38083.62,monto,UF
+2026-03-14,Valores y Montos Actualizados,UTM,"$68.992,12",68992.12,monto,UTM
+2026-03-14,Valores y Montos Actualizados,UTA,"$820.095,28",820095.28,monto,UTA
+2026-03-14,Valores y Montos Actualizados,Dólar Observado,"$953,05",953.05,monto,USD
+2026-03-14,Valores y Montos Actualizados,Euro,"$1.010,88",1010.88,monto,EUR
+2026-03-14,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-03-14,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-03-14,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-03-14,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-03-14,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-03-14,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-03-14,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-03-14,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-03-14,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-03-14,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-03-14,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-03-14,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-03-14,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-03-14,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-03-14,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-03-14,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-03-14,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-03-14,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-03-21,Valores y Montos Actualizados,UF,"$38.090,22",38090.22,monto,UF
+2026-03-21,Valores y Montos Actualizados,UTM,"$68.485,02",68485.02,monto,UTM
+2026-03-21,Valores y Montos Actualizados,UTA,"$827.368,31",827368.31,monto,UTA
+2026-03-21,Valores y Montos Actualizados,Dólar Observado,"$931,55",931.55,monto,USD
+2026-03-21,Valores y Montos Actualizados,Euro,"$1.027,73",1027.73,monto,EUR
+2026-03-21,Rentas Topes Imponibles,"Para afiliados a una AFP (UF 81,6)",$3.147.436,3147436,monto,CLP
+2026-03-21,Rentas Topes Imponibles,Para afiliados al IPS (UF 60),$2.314.293,2314293,monto,CLP
+2026-03-21,Rentas Topes Imponibles,"Para Seguro de Cesantía (UF 122,6)",$4.728.467,4728467,monto,CLP
+2026-03-21,Rentas Mínimas Imponibles,Trabajadores Dependientes e Independientes,$500.000,500000,monto,CLP
+2026-03-21,Rentas Mínimas Imponibles,Menores de 18 y Mayores de 65,$372.989,372989,monto,CLP
+2026-03-21,Rentas Mínimas Imponibles,Trabajadores de Casa Particular,$500.000,500000,monto,CLP
+2026-03-21,Rentas Mínimas Imponibles,Para fines no remuneracionales,$322.295,322295,monto,CLP
+2026-03-21,Tasas de Cotización Obligatoria AFP,Capital,"11,44%",11.44,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,Cuprum,"11,44%",11.44,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,Habitat,"11,27%",11.27,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,Modelo,"10,58%",10.58,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,PlanVital,"11,16%",11.16,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,ProVida,"11,45%",11.45,porcentaje,%
+2026-03-21,Tasas de Cotización Obligatoria AFP,Uno,"10,69%",10.69,porcentaje,%
+2026-03-21,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Empleador),"2,40%",2.4,porcentaje,%
+2026-03-21,Seguro de Cesantía (AFC),Contrato Plazo Indefinido (Trabajador),"0,60%",0.6,porcentaje,%
+2026-03-21,Seguro de Cesantía (AFC),Contrato Plazo Fijo (Empleador),"3,00%",3.0,porcentaje,%
+2026-03-21,Cotización Salud,Cotización Obligatoria de Salud,"7,00%",7.0,porcentaje,%
+2026-03-21,Ahorro Previsional Voluntario,APV Tope Mensual (UF 50),$1.928.576,1928576,monto,CLP
+2026-03-21,Ahorro Previsional Voluntario,APV Tope Anual (UF 600),$23.142.912,23142912,monto,CLP
+2026-03-21,Asignación Familiar,Tramo A (hasta $437.901),$18.832,18832,monto,CLP
+2026-03-21,Asignación Familiar,Tramo B ($437.902 a $639.458),$11.553,11553,monto,CLP
+2026-03-21,Asignación Familiar,Tramo C ($639.459 a $997.827),$3.651,3651,monto,CLP
+2026-03-21,General,Para cotizaciones a pagar en abril 2026 (remuneraciones marzo 2026),Descargar,,otro,CLP
+2026-03-21,General,Al 31 de Marzo del 2026:,"$ 39.841,72",39841.72,monto,CLP
+2026-03-21,General,Al 28 de Febrero del 2026:,"$ 39.790,63",39790.63,monto,CLP
+2026-03-21,"$ 39.790,63",Para afiliados a una AFP (90 UF):,$ 3.585.755,3585755.0,monto,UF
+2026-03-21,"$ 39.790,63",Para afiliados al IPS (ex INP) (60 UF):,$ 2.387.438,2387438.0,monto,UF
+2026-03-21,"$ 39.790,63","Para Seguro de Cesantía (135,2 UF):",$ 5.386.601,5386601.0,monto,UF
+2026-03-21,$ 5.386.601,AFP,TASA COTIZACIÓN AFP,,otro,CLP
+2026-03-21,$ 5.386.601,DEPENDIENTES,INDEPENDIENTES,,otro,CLP
+2026-03-21,$ 5.386.601,Cargo del Trabajador,Cargo del Empleador,,otro,CLP
+2026-03-21,$ 5.386.601,Capital,"11,44%",11.44,porcentaje,%
+2026-03-21,$ 5.386.601,Cuprum,"11,44%",11.44,porcentaje,%
+2026-03-21,$ 5.386.601,Habitat,"11,27%",11.27,porcentaje,%
+2026-03-21,$ 5.386.601,PlanVital,"11,16%",11.16,porcentaje,%
+2026-03-21,$ 5.386.601,ProVida,"11,45%",11.45,porcentaje,%
+2026-03-21,$ 5.386.601,Modelo,"10,58%",10.58,porcentaje,%
+2026-03-21,$ 5.386.601,Uno,"10,46%",10.46,porcentaje,%
+2026-03-21,"12,00%",CONTRATO,FINANCIAMIENTO,,otro,CLP
+2026-03-21,"12,00%",EMPLEADOR,TRABAJADOR,,otro,CLP
+2026-03-21,"12,00%",Plazo Indefinido,"2,4% R.I.",,porcentaje,%
+2026-03-21,"12,00%",Plazo Fijo,"3,0% R.I.",,porcentaje,%
+2026-03-21,"12,00%",Plazo Indefinido 11 años o más (*),"0,8% R.I.",,porcentaje,%
+2026-03-21,"12,00%",Trabajador de Casa Particular (**),"3,0% R.I.",,porcentaje,%
+2026-03-21,(**),Tope Mensual (50 UF):,$ 1.992.086,1992086.0,monto,UF
+2026-03-21,(**),Tope Anual (600 UF):,$ 23.905.032,23905032.0,monto,UF
+2026-03-21,$ 23.905.032,Tope Anual (900 UF):,$ 35.857.548,35857548.0,monto,UF
+2026-03-21,$ 35.857.548,Marzo 2026,$ 69.889,69889.0,monto,CLP
+2026-03-21,$ 838.668,Trab. Dependientes e Independientes:,$ 539.000,539000.0,monto,CLP
+2026-03-21,$ 838.668,Menores de 18 y Mayores de 65:,$ 402.082,402082.0,monto,CLP
+2026-03-21,$ 838.668,Trabajadores de Casa Particular:,$ 539.000,539000.0,monto,CLP
+2026-03-21,$ 838.668,Para fines no remuneracionales:,$ 347.434,347434.0,monto,CLP
+2026-03-21,$ 347.434,Expectativa de Vida,0.9%,9.0,porcentaje,%
+2026-03-21,0.9%,Tasa SIS,"1,54%",1.54,porcentaje,%
+2026-03-21,SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS),CCAF,"4,2% R.I.",,porcentaje,%
+2026-03-21,SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS),FONASA,"2,8% R.I.",,porcentaje,%
+2026-03-21,"4,2% R.I.",CALIFICACIÓN,FINANCIAMIENTO,,otro,CLP
+2026-03-21,"4,2% R.I.",PUESTO DE TRABAJO,EMPLEADOR,,otro,CLP
+2026-03-21,"4,2% R.I.",Trabajo pesado,4%,4.0,porcentaje,%
+2026-03-21,"4,2% R.I.",Trabajo menos pesado,2%,2.0,porcentaje,%
+2026-03-21,1% R.I.,TRAMO,ASIGNACIÓN FAMILIAR,,otro,CLP
+2026-03-21,1% R.I.,1 (A),$ 22.007,22007.0,monto,CLP
+2026-03-21,1% R.I.,2 (B),$ 13.505,13505.0,monto,CLP
+2026-03-21,1% R.I.,3 (C),$ 4.267,4267.0,monto,CLP
+2026-03-21,1% R.I.,4 (D),–,,otro,CLP

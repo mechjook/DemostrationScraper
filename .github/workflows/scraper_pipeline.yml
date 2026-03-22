@@ -1,0 +1,96 @@
+name: Scraper Pipeline — Indicadores Previsionales
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 12 * * 1"  # Cada lunes a las 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  test:
+    name: Tests & Validación
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Ejecutar tests
+        run: pytest tests/ -v --tb=short
+
+  scraper:
+    name: Ejecutar Scraper Pipeline
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Restaurar datos históricos
+        run: |
+          git checkout origin/main -- data/indicadores_historico.csv 2>/dev/null || echo "Sin datos históricos previos"
+
+      - name: Ejecutar pipeline
+        run: python main.py
+
+      - name: Verificar outputs generados
+        run: |
+          echo "=== Archivos de datos ==="
+          ls -la data/
+          echo "=== Dashboard ==="
+          ls -la output/
+          head -5 output/index.html
+
+      - name: Commit datos actualizados
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/indicadores_historico.csv data/indicadores_latest.json
+          git diff --cached --quiet || git commit -m "chore: actualizar indicadores $(date +%Y-%m-%d)"
+          git push
+
+      - name: Upload artifact para Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+  deploy:
+    name: Deploy Dashboard a GitHub Pages
+    needs: scraper
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy a GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
