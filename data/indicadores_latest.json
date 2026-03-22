@@ -1,5 +1,5 @@
 {
-  "fecha_extraccion": "2026-03-21",
+  "fecha_extraccion": "2026-03-22",
   "total_indicadores": 43,
   "indicadores": [
     {
@@ -9,7 +9,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "General",
@@ -18,7 +18,7 @@
       "valor": 39841.72,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "General",
@@ -27,7 +27,7 @@
       "valor": 39790.63,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 39.790,63",
@@ -36,7 +36,7 @@
       "valor": 3585755.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 39.790,63",
@@ -45,7 +45,7 @@
       "valor": 2387438.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 39.790,63",
@@ -54,7 +54,7 @@
       "valor": 5386601.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -63,7 +63,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -72,7 +72,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -81,7 +81,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -90,7 +90,7 @@
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -99,7 +99,7 @@
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -108,7 +108,7 @@
       "valor": 11.27,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -117,7 +117,7 @@
       "valor": 11.16,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -126,7 +126,7 @@
       "valor": 11.45,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -135,7 +135,7 @@
       "valor": 10.58,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 5.386.601",
@@ -144,7 +144,7 @@
       "valor": 10.46,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -153,7 +153,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -162,7 +162,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -171,7 +171,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -180,7 +180,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -189,7 +189,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "12,00%",
@@ -198,7 +198,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "(**)",
@@ -207,7 +207,7 @@
       "valor": 1992086.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "(**)",
@@ -216,7 +216,7 @@
       "valor": 23905032.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 23.905.032",
@@ -225,7 +225,7 @@
       "valor": 35857548.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 35.857.548",
@@ -234,7 +234,7 @@
       "valor": 69889.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 838.668",
@@ -243,7 +243,7 @@
       "valor": 539000.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 838.668",
@@ -252,7 +252,7 @@
       "valor": 402082.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 838.668",
@@ -261,7 +261,7 @@
       "valor": 539000.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 838.668",
@@ -270,7 +270,7 @@
       "valor": 347434.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "$ 347.434",
@@ -279,7 +279,7 @@
       "valor": 9.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "0.9%",
@@ -288,7 +288,7 @@
       "valor": 1.54,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
@@ -297,7 +297,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
@@ -306,7 +306,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "4,2% R.I.",
@@ -315,7 +315,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "4,2% R.I.",
@@ -324,7 +324,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "4,2% R.I.",
@@ -333,7 +333,7 @@
       "valor": 4.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "4,2% R.I.",
@@ -342,7 +342,7 @@
       "valor": 2.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "1% R.I.",
@@ -351,7 +351,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "1% R.I.",
@@ -360,7 +360,7 @@
       "valor": 22007.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "1% R.I.",
@@ -369,7 +369,7 @@
       "valor": 13505.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "1% R.I.",
@@ -378,7 +378,7 @@
       "valor": 4267.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     },
     {
       "seccion": "1% R.I.",
@@ -387,7 +387,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-03-21"
+      "fecha_extraccion": "2026-03-22"
     }
   ]
 }
