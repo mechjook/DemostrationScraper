@@ -1,150 +1,150 @@
 {
-  "fecha_extraccion": "2026-05-11",
+  "fecha_extraccion": "2026-05-18",
   "total_indicadores": 43,
   "indicadores": [
     {
       "seccion": "General",
-      "indicador": "Para cotizaciones a pagar en mayo 2026 (remuneraciones abril 2026)",
+      "indicador": "Para cotizaciones a pagar en junio 2026 (remuneraciones mayo 2026)",
       "valor_raw": "Descargar",
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "1,62%",
-      "indicador": "Al 30 de Abril del 2026",
+      "seccion": "General",
+      "indicador": "Al 31 de Mayo del 2026:",
+      "valor_raw": "$ 40.610,69",
+      "valor": 40610.69,
+      "tipo": "monto",
+      "unidad": "CLP",
+      "fecha_extraccion": "2026-05-18"
+    },
+    {
+      "seccion": "General",
+      "indicador": "Al 30 de Abril del 2026:",
       "valor_raw": "$ 40.120,20",
       "valor": 40120.2,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "1,62%",
-      "indicador": "Al 31 de Marzo del 2026:",
-      "valor_raw": "$ 39.841,72",
-      "valor": 39841.72,
-      "tipo": "monto",
-      "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
-    },
-    {
-      "seccion": "$ 39.841,72",
+      "seccion": "$ 40.120,20",
       "indicador": "Para afiliados a una AFP (90 UF):",
-      "valor_raw": "$ 3.610.818",
-      "valor": 3610818.0,
+      "valor_raw": "$ 3.654.962",
+      "valor": 3654962.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 39.841,72",
+      "seccion": "$ 40.120,20",
       "indicador": "Para afiliados al IPS (ex INP) (60 UF):",
-      "valor_raw": "$ 2.390.503",
-      "valor": 2390503.0,
+      "valor_raw": "$ 2.407.212",
+      "valor": 2407212.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 39.841,72",
+      "seccion": "$ 40.120,20",
       "indicador": "Para Seguro de Cesantía (135,2 UF):",
-      "valor_raw": "$ 5.424.251",
-      "valor": 5424251.0,
+      "valor_raw": "$ 5.490.565",
+      "valor": 5490565.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "AFP",
       "valor_raw": "TASA COTIZACIÓN AFP",
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "DEPENDIENTES",
       "valor_raw": "INDEPENDIENTES",
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Cargo del Trabajador",
       "valor_raw": "Cargo del Empleador",
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Capital",
       "valor_raw": "11,44%",
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Cuprum",
       "valor_raw": "11,44%",
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Habitat",
       "valor_raw": "11,27%",
       "valor": 11.27,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "PlanVital",
       "valor_raw": "11,16%",
       "valor": 11.16,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "ProVida",
       "valor_raw": "11,45%",
       "valor": 11.45,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Modelo",
       "valor_raw": "10,58%",
       "valor": 10.58,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 5.424.251",
+      "seccion": "$ 5.490.565",
       "indicador": "Uno",
       "valor_raw": "10,46%",
       "valor": 10.46,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -153,7 +153,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -162,7 +162,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -171,7 +171,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -180,7 +180,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -189,7 +189,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "12,08%",
@@ -198,79 +198,79 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "(**)",
       "indicador": "Tope Mensual (50 UF):",
-      "valor_raw": "$ 2.006.010",
-      "valor": 2006010.0,
+      "valor_raw": "$ 2.030.535",
+      "valor": 2030535.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "(**)",
       "indicador": "Tope Anual (600 UF):",
-      "valor_raw": "$ 24.072.120",
-      "valor": 24072120.0,
+      "valor_raw": "$ 24.366.414",
+      "valor": 24366414.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 24.072.120",
+      "seccion": "$ 24.366.414",
       "indicador": "Tope Anual (900 UF):",
-      "valor_raw": "$ 36.108.180",
-      "valor": 36108180.0,
+      "valor_raw": "$ 36.549.621",
+      "valor": 36549621.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 36.108.180",
-      "indicador": "Abril 2026",
-      "valor_raw": "$ 69.889",
-      "valor": 69889.0,
+      "seccion": "$ 36.549.621",
+      "indicador": "Mayo 2026",
+      "valor_raw": "$ 70.588",
+      "valor": 70588.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 838.668",
+      "seccion": "$ 847.056",
       "indicador": "Trab. Dependientes e Independientes:",
       "valor_raw": "$ 539.000",
       "valor": 539000.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 838.668",
+      "seccion": "$ 847.056",
       "indicador": "Menores de 18 y Mayores de 65:",
       "valor_raw": "$ 402.082",
       "valor": 402082.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 838.668",
+      "seccion": "$ 847.056",
       "indicador": "Trabajadores de Casa Particular:",
       "valor_raw": "$ 539.000",
       "valor": 539000.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
-      "seccion": "$ 838.668",
+      "seccion": "$ 847.056",
       "indicador": "Para fines no remuneracionales:",
       "valor_raw": "$ 347.434",
       "valor": 347434.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "$ 347.434",
@@ -279,7 +279,7 @@
       "valor": 9.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "0.9%",
@@ -288,7 +288,7 @@
       "valor": 1.62,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
@@ -297,7 +297,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "SEGURO DE INVALIDEZ Y SOBREVIVENCIA (SIS)",
@@ -306,7 +306,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "4,2% R.I.",
@@ -315,7 +315,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "4,2% R.I.",
@@ -324,7 +324,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "4,2% R.I.",
@@ -333,7 +333,7 @@
       "valor": 4.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "4,2% R.I.",
@@ -342,7 +342,7 @@
       "valor": 2.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "1% R.I.",
@@ -351,7 +351,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "1% R.I.",
@@ -360,7 +360,7 @@
       "valor": 22007.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "1% R.I.",
@@ -369,7 +369,7 @@
       "valor": 13505.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "1% R.I.",
@@ -378,7 +378,7 @@
       "valor": 4267.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     },
     {
       "seccion": "1% R.I.",
@@ -387,7 +387,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-05-11"
+      "fecha_extraccion": "2026-05-18"
     }
   ]
 }
