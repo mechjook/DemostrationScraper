@@ -2002,3 +2002,46 @@ fecha_extraccion,seccion,indicador,valor_raw,valor,tipo,unidad
 2026-09-07,1% R.I.,2 (B),$ 13.870,13870.0,monto,CLP
 2026-09-07,1% R.I.,3 (C),$ 4.382,4382.0,monto,CLP
 2026-09-07,1% R.I.,4 (D),–,,otro,CLP
+2026-09-14,General,Para cotizaciones a pagar en octubre 2026 (remuneraciones septiembre 2026),Descargar,,otro,CLP
+2026-09-14,General,Al 30 de Septiembre del 2026:,"$ 41.057,20",41057.2,monto,CLP
+2026-09-14,General,Al 31 de Agosto del 2026:,"$ 40.873,77",40873.77,monto,CLP
+2026-09-14,"$ 40.873,77",Para afiliados a una AFP (90 UF):,$ 3.695.148,3695148.0,monto,UF
+2026-09-14,"$ 40.873,77",Para afiliados al IPS (ex INP) (60 UF):,$ 2.452.426,2452426.0,monto,UF
+2026-09-14,"$ 40.873,77","Para Seguro de Cesantía (135,2 UF):",$ 5.550.933,5550933.0,monto,UF
+2026-09-14,$ 5.550.933,AFP,TASA COTIZACIÓN AFP,,otro,CLP
+2026-09-14,$ 5.550.933,Cargo del Trabajador (*),Cargo del Empleador,,otro,CLP
+2026-09-14,$ 5.550.933,Capital,"11,44%",11.44,porcentaje,%
+2026-09-14,$ 5.550.933,Cuprum,"11,44%",11.44,porcentaje,%
+2026-09-14,$ 5.550.933,Habitat,"11,27%",11.27,porcentaje,%
+2026-09-14,$ 5.550.933,PlanVital,"11,16%",11.16,porcentaje,%
+2026-09-14,$ 5.550.933,ProVida,"11,45%",11.45,porcentaje,%
+2026-09-14,$ 5.550.933,Modelo,"10,58%",10.58,porcentaje,%
+2026-09-14,$ 5.550.933,Uno,"10,46%",10.46,porcentaje,%
+2026-09-14,(**),CONTRATO,FINANCIAMIENTO,,otro,CLP
+2026-09-14,(**),EMPLEADOR,TRABAJADOR,,otro,CLP
+2026-09-14,(**),Plazo Indefinido,"2,4% R.I.",,porcentaje,%
+2026-09-14,(**),Plazo Fijo,"3,0% R.I.",,porcentaje,%
+2026-09-14,(**),Plazo Indefinido 11 años o más (*),"0,8% R.I.",,porcentaje,%
+2026-09-14,(**),Trabajador de Casa Particular (**),"3,0% R.I.",,porcentaje,%
+2026-09-14,(**),Tope Mensual (50 UF):,$ 2.052.860,2052860.0,monto,UF
+2026-09-14,(**),Tope Anual (600 UF):,$ 24.634.320,24634320.0,monto,UF
+2026-09-14,$ 24.634.320,Tope Anual (900 UF):,$ 36.951.480,36951480.0,monto,UF
+2026-09-14,$ 36.951.480,Septiembre 2026,$ 71.721,71721.0,monto,CLP
+2026-09-14,$ 860.652,Trab. Dependientes e Independientes:,$ 553.553,553553.0,monto,CLP
+2026-09-14,$ 860.652,Menores de 18 y Mayores de 65:,$ 412.938,412938.0,monto,CLP
+2026-09-14,$ 860.652,Trabajadores de Casa Particular:,$ 553.553,553553.0,monto,CLP
+2026-09-14,$ 860.652,Para fines no remuneracionales:,$ 356.815,356815.0,monto,CLP
+2026-09-14,$ 356.815,Rentabilidad Protegida,0.90%,90.0,porcentaje,%
+2026-09-14,$ 356.815,Expectativa de Vida,0.72%,72.0,porcentaje,%
+2026-09-14,$ 356.815,Seguro de Invalidez y Sobrevivencia (SIS) (*),"1,78%",1.78,porcentaje,%
+2026-09-14,"1,78%",CCAF,"4,2% R.I.",,porcentaje,%
+2026-09-14,"1,78%",FONASA,"2,8% R.I.",,porcentaje,%
+2026-09-14,"2,8% R.I.",CALIFICACIÓNPUESTO DE TRABAJO,FINANCIAMIENTO,,otro,CLP
+2026-09-14,"2,8% R.I.",EMPLEADOR,TRABAJADOR,,otro,CLP
+2026-09-14,"2,8% R.I.",Trabajo pesado,4%,4.0,porcentaje,%
+2026-09-14,"2,8% R.I.",Trabajo menos pesado,2%,2.0,porcentaje,%
+2026-09-14,1% R.I.,TRAMO,ASIGNACIÓN FAMILIAR,,otro,CLP
+2026-09-14,1% R.I.,1 (A),$ 22.601,22601.0,monto,CLP
+2026-09-14,1% R.I.,2 (B),$ 13.870,13870.0,monto,CLP
+2026-09-14,1% R.I.,3 (C),$ 4.382,4382.0,monto,CLP
+2026-09-14,1% R.I.,4 (D),–,,otro,CLP
