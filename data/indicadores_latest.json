@@ -1,5 +1,5 @@
 {
-  "fecha_extraccion": "2026-10-19",
+  "fecha_extraccion": "2026-10-26",
   "total_indicadores": 43,
   "indicadores": [
     {
@@ -9,7 +9,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "General",
@@ -18,7 +18,7 @@
       "valor": 41247.63,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "General",
@@ -27,7 +27,7 @@
       "valor": 41057.2,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 41.057,20",
@@ -36,7 +36,7 @@
       "valor": 3712287.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 41.057,20",
@@ -45,7 +45,7 @@
       "valor": 2463432.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 41.057,20",
@@ -54,7 +54,7 @@
       "valor": 5576680.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -63,7 +63,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -72,7 +72,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -81,7 +81,7 @@
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -90,7 +90,7 @@
       "valor": 11.44,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -99,7 +99,7 @@
       "valor": 11.27,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -108,7 +108,7 @@
       "valor": 11.16,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -117,7 +117,7 @@
       "valor": 11.45,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -126,7 +126,7 @@
       "valor": 10.58,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 5.576.680",
@@ -135,7 +135,7 @@
       "valor": 10.46,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -144,7 +144,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -153,7 +153,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -162,7 +162,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -171,7 +171,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -180,7 +180,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -189,7 +189,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -198,7 +198,7 @@
       "valor": 2062382.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "(**)",
@@ -207,7 +207,7 @@
       "valor": 24748578.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 24.748.578",
@@ -216,7 +216,7 @@
       "valor": 37122867.0,
       "tipo": "monto",
       "unidad": "UF",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 37.122.867",
@@ -225,7 +225,7 @@
       "valor": 72151.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 865.812",
@@ -234,7 +234,7 @@
       "valor": 553553.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 865.812",
@@ -243,7 +243,7 @@
       "valor": 412938.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 865.812",
@@ -252,7 +252,7 @@
       "valor": 553553.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 865.812",
@@ -261,7 +261,7 @@
       "valor": 356815.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 356.815",
@@ -270,7 +270,7 @@
       "valor": 90.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 356.815",
@@ -279,7 +279,7 @@
       "valor": 72.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "$ 356.815",
@@ -288,7 +288,7 @@
       "valor": 1.78,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1,78%",
@@ -297,7 +297,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1,78%",
@@ -306,7 +306,7 @@
       "valor": null,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "2,8% R.I.",
@@ -315,7 +315,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "2,8% R.I.",
@@ -324,7 +324,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "2,8% R.I.",
@@ -333,7 +333,7 @@
       "valor": 4.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "2,8% R.I.",
@@ -342,7 +342,7 @@
       "valor": 2.0,
       "tipo": "porcentaje",
       "unidad": "%",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1% R.I.",
@@ -351,7 +351,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1% R.I.",
@@ -360,7 +360,7 @@
       "valor": 22601.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1% R.I.",
@@ -369,7 +369,7 @@
       "valor": 13870.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1% R.I.",
@@ -378,7 +378,7 @@
       "valor": 4382.0,
       "tipo": "monto",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     },
     {
       "seccion": "1% R.I.",
@@ -387,7 +387,7 @@
       "valor": null,
       "tipo": "otro",
       "unidad": "CLP",
-      "fecha_extraccion": "2026-10-19"
+      "fecha_extraccion": "2026-10-26"
     }
   ]
 }
